@@ -39,7 +39,7 @@ Key objectives include:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/DivyanshKgpian/E-commerce Analytics Dashboard.git
+    git clone https://github.com/DivyanshKgpian/E-commerce-analytics-dashboard.git
     ```
 2. **Install Python dependencies:**
     ```bash
